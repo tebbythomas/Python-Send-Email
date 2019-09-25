@@ -20,3 +20,10 @@ smtplib, os, imghdr, email.message
 <br />
 <br />
 <b>mail_demo_server.py</b>: is a Python code to send an email on a locally setup demo server on the terminal
+<br />
+<br />
+<b>Screenshot of the email sent with attachments:</b>
+<br />
+<br />
+<img src="https://github.com/tebbythomas/Python-Send-Email/blob/master/Screenshots/Email_Body.png" hspace="20">
+<br />
