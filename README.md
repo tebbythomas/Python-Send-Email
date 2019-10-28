@@ -27,3 +27,10 @@ smtplib, os, imghdr, email.message
 <br />
 <img src="https://github.com/tebbythomas/Python-Send-Email/blob/master/Screenshots/Email_Body.png" hspace="20">
 <br />
+<br />
+<br />
+<b>Credits:</b>
+<br />
+Corey Schafer:
+<br />
+https://www.youtube.com/watch?v=JRCJ6RtE3xU
